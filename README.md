@@ -55,7 +55,6 @@ Se utilizo los siguientes materiales
 
 # VIDEO
 
-https://youtu.be/FW-AcRSkXaU 
 
 # CONCLUSIONES
 
