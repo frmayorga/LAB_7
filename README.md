@@ -76,6 +76,17 @@ Los valores de corriente no se han tomado en cuenta debido a que los valores en 
 | 1000 Hz | 4.336 V | 6.15 V |
 
 
+#### ¿como se comportan la bonina y el capacitor con cero hz?
+- cuando se trata del capacitor podemos notar que aun existe una onda periodica, sin embargo, el tiempo que tarda en completar cada ciclo es demaciado extenzo y en un punto de este ciclo la extensa onda se detiene en cero volts, podemos asumir que esto sucede devido aun corto que puede estar relacionado con una falla en los capacitores.  
+![image](https://user-images.githubusercontent.com/93398718/152890627-3d702be4-485c-4c5c-9542-e67e450ac647.png)
+
+- apesar de que en el inductor la onde sinuidal se prolonga durante mas tiempo se obtiene el mismo resultado que con el inductor, pues en cierto punto la onda llega a cero volts y se detiene.  
+![image](https://user-images.githubusercontent.com/93398718/152890295-549b45d7-3a2d-46f1-ba4e-4eda52c9e9bf.png)
+ 
+#### ¿como se comportan la bobina y el capacitor en corriente alterna?
+
+
+
 # VIDEO
 
 
