@@ -4,12 +4,12 @@
 # OBJETIVOS
 
 ## OBJETIVO GENERAL 
-
+-
 
 ## OBJETIVO ESPECIFICO
-
-
-
+-
+-
+-
 # MARCO TEORICO
 
 
