@@ -100,7 +100,7 @@ Algunos valores de corriente no se han tomado en cuenta ya que los valores en el
 
 **TABLA 1.2 CAPACITORES**
 
-![image](https://user-images.githubusercontent.com/93561706/152915694-ec00519d-88d5-42d8-8603-448cbb0ba207.png)
+![image](https://user-images.githubusercontent.com/93561706/152921613-33c73853-5675-4eac-8591-5125fbbd9650.png)
 
 #### 1) ¿como se comportan la bonina y el capacitor con cero hz?
 - cuando se trata del capacitor podemos notar que aun existe una onda periodica, sin embargo, el tiempo que tarda en completar cada ciclo es demaciado extenzo y en un punto de este ciclo la extensa onda se detiene en cero volts, podemos asumir que esto sucede devido aun corto que puede estar relacionado con una falla en los capacitores.  
