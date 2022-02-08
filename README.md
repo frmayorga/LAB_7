@@ -47,7 +47,7 @@ Se utilizo los siguientes materiales
 - Resistencias, bobinas y capacitores.
 
 
-**Parte 1:
+## Parte 1:
 
 Para el procedimiento de la tabla 1.1 se armo el siguiente circuito en DCACLAB: 
 
@@ -65,7 +65,7 @@ Despues de realizar el armado se tomo las mediciones de voltaje Vo con diferente
 
 Los valores de corriente no se han tomado en cuenta debido a que los valores en el multimetro cambiaban sin quedar en un valor fijo.
 
-**Parte 2:
+## Parte 2:
 
 Para el procedimiento de la tabla 1.2 se armo el siguiente circuito en DCACLAB: 
 
