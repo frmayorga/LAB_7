@@ -90,7 +90,11 @@ Los valores de corriente no se han tomado en cuenta debido a que los valores en 
 - capacitor: En corriente alterna, el voltaje está constantemente cambiando su polaridad, y ésto se traduce en que el condensador se está cargando y descargando constantemente al ritmo de la frecuencia que posee el generador, por lo que la intensidad se ve afectada.
 
 #### 3) ¿ Que cree usted que ocurrira con el voltaje Vo y la corriente de la resistenccia en los circuitos analizados en esta practica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+- en caso de que utilicemos dos inductores con balores distintos en el circuito prodemos notar como el voltaje y la corriente aumentan dependiendo de los valores que estemos usando en estos componentes. caso contrario sucede con las bobinas donde podemos apreciar que en todo el circuito el voltaje se reduce al igual que la corriente esto sucede devido a que el campo electromagnetico que se produce en estos inductores afecta a todo el circuito.
 
+
+#### 4) ¿Que son los valores eficaces de voltaje y corriente?
+- el valor root meat square mayormente conocido por sus siglas rms que significan raiz cuadrada del valor medio es el valor eficas de un circuito, El valor eficaz de una corriente o voltaje alterna, es el valor que tendría una corriente o vpltajecontinua que produjera la misma potencia que dicha corriente o voltaje alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia.
 
 
 
