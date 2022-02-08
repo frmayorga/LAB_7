@@ -63,6 +63,26 @@ Despues de realizar el armado se tomo las mediciones de voltaje Vo con diferente
 Los valores de corriente no se han tomado en cuenta debido a que los valores en el multimetro cambiaban sin quedar en un valor fijo.
 
 
+
+
+Para el procedimiento de la tabla 1.2 se armo el siguiente circuito en DCACLAB: 
+
+![image](https://user-images.githubusercontent.com/93561706/152915505-8c594653-e7e1-4fae-855e-2fe7b8568ee9.png)
+
+Despues de realizar el armado se tomo las mediciones de voltaje Vo con diferentes frecuencias, tambien se realizo las medidas de voltajes picos con el osciloscopio: 
+
+- OSCILOSCOPIO
+
+![image](https://user-images.githubusercontent.com/93561706/152915536-c3cddc6e-9e09-4472-b8cf-3d6100ad896e.png)
+
+- VOLTAJE
+
+![image](https://user-images.githubusercontent.com/93561706/152915561-ac93a20e-388c-409e-a7bd-fc5bc0020869.png)
+
+Algunos valores de corriente no se han tomado en cuenta ya que los valores en el multimetro cambiaban sin quedar en un valor fijo.
+
+
+
 # RESPUESTA DE INTERROGANTES
 
 **TABLA 1.1 CAPACITORES**
@@ -76,6 +96,9 @@ Los valores de corriente no se han tomado en cuenta debido a que los valores en 
 | 500 Hz | 5.949 V | 8.4 V |
 | 1000 Hz | 4.336 V | 6.15 V |
 
+**TABLA 1.2 CAPACITORES**
+
+![image](https://user-images.githubusercontent.com/93561706/152915694-ec00519d-88d5-42d8-8603-448cbb0ba207.png)
 
 #### 1) ¿como se comportan la bonina y el capacitor con cero hz?
 - cuando se trata del capacitor podemos notar que aun existe una onda periodica, sin embargo, el tiempo que tarda en completar cada ciclo es demaciado extenzo y en un punto de este ciclo la extensa onda se detiene en cero volts, podemos asumir que esto sucede devido aun corto que puede estar relacionado con una falla en los capacitores.  
