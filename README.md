@@ -14,6 +14,7 @@
 
 ![capacitores](https://user-images.githubusercontent.com/93361435/152892515-5b58dbc9-13c9-48c4-bb3c-85d0e7bffd16.jpg)
 
+![inductor](https://user-images.githubusercontent.com/93561706/152992811-1ab84586-d225-4c13-9a8e-82ba931def43.png)
 
 **CODIGO DE COLORES PARA RESISTORES DE 4 BANDAS** 
 
