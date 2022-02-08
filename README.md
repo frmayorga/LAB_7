@@ -128,10 +128,9 @@ Algunos valores de corriente no se han tomado en cuenta ya que los valores en el
 
 # CONCLUSIONES
 
--
--
--
--
+- gracias al desarrollo de esta practica comprendemos de mejor manera los datos que podemos obtener haciendo uso de herramientas de analisis tales como el osciloscapio que no solo nos permite observar el comportamiento de la onda seno, tambien mediante el analisis de la misma podemos observar su frecuencia, los valores pico de voltaje estas caracteristicas mensionadas son solo pocas de las muchas cosas que podemos observar gracias a este intrumento de medicion.
+- mediante la experimentacion aprendimos que los capacitores influyen en el aumento del voltaje y corriente dentro de circuitos de ca mientras que con los inductores observamos un efecto contrario, esto lo pudimos afirmar de mejor manera cuando usamos valores de capacitores he inductores distintos. 
+- el comportamiento de la corriente y el voltaje esta directamente relacionado con los valores de frecuencia que la fuente de ca puede administrar comprobamos esto al momento de encender el circuito con valores de 0 hz, donde luedo de un momento se producia corto en el circuito.
 
 # BIBLIOGRAFIA
 
