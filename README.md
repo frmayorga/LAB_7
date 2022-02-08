@@ -69,7 +69,7 @@ Los valores de corriente no se han tomado en cuenta debido a que los valores en 
 
 | FRECUENCIA | VOLTAJE MULTIMETRO | VOLTAJE PICO OSCILOSCOPIO |
 |------------|--------------------|---------------------------|
-| 0 Hz | 0.017 V | 0 V |
+| 0 Hz | 8.346 V | 0 V |
 | 10 Hz | 7.135 V | 10 V |
 | 50 Hz | 7.079 V | 9.97 V |
 | 100 Hz | 6.974 V | 9.77 V |
