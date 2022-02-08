@@ -4,12 +4,12 @@
 # OBJETIVOS
 
 ## OBJETIVO GENERAL 
--
+- mediante los conocimientos impartidos en clase desarrollar nuestras habilidades para la manipulacion de instrumentos de medicion tales como el osciloscopio de tal manera que podamos manipular los datos arrojados por circuitos de corriente alterna que contiene capacitores he inductores en serie o en paralelo.  
 
 ## OBJETIVO ESPECIFICO
--
--
--
+- comprender como funciona el osciloscopio.
+- analizar el efecto producido en la onda sinuidal por circuitos que contienen capacitores he inductores.
+- analizar el comportamiento de la corriente y el voltaje en circuitos de corriente alterna.
 # MARCO TEORICO
 
 ![capacitores](https://user-images.githubusercontent.com/93361435/152892515-5b58dbc9-13c9-48c4-bb3c-85d0e7bffd16.jpg)
