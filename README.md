@@ -12,6 +12,7 @@
 -
 # MARCO TEORICO
 
+![capacitores](https://user-images.githubusercontent.com/93361435/152892515-5b58dbc9-13c9-48c4-bb3c-85d0e7bffd16.jpg)
 
 
 **CODIGO DE COLORES PARA RESISTORES DE 4 BANDAS** 
