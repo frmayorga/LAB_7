@@ -126,6 +126,7 @@ Algunos valores de corriente no se han tomado en cuenta ya que los valores en el
 
 # VIDEO
 
+https://youtu.be/JLYehz9-gcY
 
 # CONCLUSIONES
 
